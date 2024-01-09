@@ -1,0 +1,23 @@
+body{
+    background-image: url('../image/1704785771-5-chot-1703687271449335725391-width640height427.jpg');
+    background-size: cover;
+}
+h1{
+    color:#0f5a14;
+}
+p{
+    color:rgb(184, 18, 18);
+    font-size:  16px;
+    line-height: 20px;
+    font-family: Arial, Helvetica, sans-serif ;
+    text-align: center;/* left center right justify */ 
+    text-decoration: none; /* underline(gach cheo)  line-through(gach giua)  overline(gach tren dau) */
+    text-transform: none;/* uppercase (chuyen dang chữ)  lowercase capitalize*/
+    font-weight: 400;
+    /* 100-thin  200- semi-light  300-light  400-normal    500-medium  
+     600 - semibold  700-bold  800-extrabold   900-black
+     */
+    /* background-color: rgb(232, 208, 166);*/
+     width: 600px; /* độ rộng của chữ */
+     border-bottom: 1px solid #291e07 ; /* bo */
+}
