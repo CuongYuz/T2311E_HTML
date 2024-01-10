@@ -19,11 +19,19 @@ h3{
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
     
 }
+h1{
+   font-size: smaller;
+   font-family: 'Times New Roman', Times, serif;
+   font-weight: 100;
+}
 p{
-    color:black;
-    width: 600;
-    font-size: small;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    color: #778282 ;
+    font-size: medium;
+    font-family:'Trebuchet MS', sans-serif;
+    font-weight: 200;
+}
+h6{
+    font-size: medium;
 }
 
 
