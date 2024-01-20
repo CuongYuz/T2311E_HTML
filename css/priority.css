@@ -1,10 +1,21 @@
+#ph{
+    color:orangered ;
+}
+body .box .grah{
 
+}
+.box > .grah{
+    
+}
+.box .grah{
+    color:blue;
+}
 .grah{
     color: pink;
 }
 
 p{
-    color :black
+    color :black !important;
 
 }
 p{
